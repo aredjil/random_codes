@@ -1,1 +1,2 @@
-# random_codes
+# Random Codes 
+This repo contains random codes. 
